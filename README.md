@@ -24,10 +24,9 @@
 </table>
 
 <br>
+1주차
+![image](https://github.com/algorithm-study-likelion/study-workspace/assets/47853679/9de15072-976f-40fc-b857-f3f19d6eedc2)
 
-|   주차    |      날짜       | jinny-l | HyowonSin | jaea-kim | JeonHyoChang | Gwonwoo-Nam |
-|:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:-----------:|
-| week_01 | 02-20 ~ 02-26 |    ✅    |     ✅     |    ✅     |      ✅      |   중도 합류   |
 
 알고리즘 스터디입니다. 함께 공부하실 분들은 언제든, 누구나 참여 가능합니다.  
 
