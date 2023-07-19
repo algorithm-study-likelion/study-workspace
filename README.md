@@ -1,10 +1,33 @@
 # 📝멋사 알고리즘 스터디📝
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/Seojin-Yang"><img src="https://avatars.githubusercontent.com/jinny-l" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Yeonju-Oh"><img src="https://avatars.githubusercontent.com/HyowonSin" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Seojun-Yoon"><img src="https://avatars.githubusercontent.com/jaea-kim" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Jongtae-Nam"><img src="https://avatars.githubusercontent.com/JeonHyoChang" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Yeonju-Park"><img src="https://avatars.githubusercontent.com/Gwonwoo-Nam" width="130px;" alt=""></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Seojin-Yang"><b>jinny-l</b></a></td>
+    <td align="center"><a href="https://github.com/HyowonSin"><b>HyowonSin</b></a></td>
+    <td align="center"><a href="https://github.com/jaea-kim"><b>jaea-kim</b></a></td>
+    <td align="center"><a href="https://github.com/JeonHyoChang"><b>JeonHyoChang</b></a></td>
+    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><b>Gwonwoo-Nam</b></a></td>
+  </tr>
+  <tr> 
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+  </tr> 
+</table>
 
 <br>
 
-|   주차    |     날짜     |     서진     |     연주     |     종태     |     서준     |     영주     |     연주     |
+|   주차    |      날짜       | jinny-l | HyowonSin | jaea-kim | JeonHyoChang | Gwonwoo-Nam |
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:-----------:|
-| week_01   | 07.19       |      ✅      |     ✅      |      ✅     |      ✅     |   중도 합류   |      ✅     |
+| week_01 | 02-20 ~ 02-26 |    ✅    |     ✅     |    ✅     |      ✅      |   중도 합류   |
 
 알고리즘 스터디입니다. 함께 공부하실 분들은 언제든, 누구나 참여 가능합니다.  
 
