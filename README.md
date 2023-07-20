@@ -6,13 +6,15 @@
     <td align="center"><a href="https://github.com/Seojun-Yoon"><img src="https://avatars.githubusercontent.com/jaea-kim" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/Jongtae-Nam"><img src="https://avatars.githubusercontent.com/JeonHyoChang" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/Yeonju-Park"><img src="https://avatars.githubusercontent.com/Gwonwoo-Nam" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Yeonju-Park"><img src="https://avatars.githubusercontent.com/Gwonwoo-Nam" width="130px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Seojin-Yang"><b>jinny-l</b></a></td>
-    <td align="center"><a href="https://github.com/HyowonSin"><b>HyowonSin</b></a></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><b>jaea-kim</b></a></td>
-    <td align="center"><a href="https://github.com/JeonHyoChang"><b>JeonHyoChang</b></a></td>
-    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><b>Gwonwoo-Nam</b></a></td>
+    <td align="center"><a href="https://github.com/Seojin-Yang"><b>양서진</b></a></td>
+    <td align="center"><a href="https://github.com/HyowonSin"><b>윤서준</b></a></td>
+    <td align="center"><a href="https://github.com/jaea-kim"><b>남종태</b></a></td>
+    <td align="center"><a href="https://github.com/JeonHyoChang"><b>오연주</b></a></td>
+    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><b>이영주</b></a></td>
+    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><b>박연주</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
@@ -20,6 +22,7 @@
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+   <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
   </tr> 
 </table>
 
@@ -28,25 +31,7 @@
 
 |   주차    |      날짜       | 남종태 | 박연주 | 양서진 | 윤서준 | 오연주 | 이영주 |
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:-----------:|:-----------:|
-| week_01 | 02-20 ~ 02-26 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |      ✅     |
-| week_02 | 02-27 ~ 03-05 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |      ✅     |
-| week_03 | 03-06 ~ 03-12 |    ✅    |     🔺     |    ✅     |      ✅      |      ✅     |      ✅     |
-| week_04 | 03-13 ~ 03-19 |    ✅    |     ✅     |    🔺     |      ✅      |      ✅     |      ✅     |
-| week_05 | 03-20 ~ 03-26 |    ✅    |     🔺     |    ✅     |      ✅      |      ✅     |      ✅     |
-| week_06 | 03-27 ~ 04-02 |    2️⃣    |     ❌     |    🔺     |      🔺      |      ✅     |      ✅     |
-| week_07 | 04-03 ~ 04-09 |   방학    |    방학    |    방학    |      방학     |     방학     |      ✅     |
-| week_08 | 04-10 ~ 04-16 |    2️⃣    |     ✅     |    ✅     |      ✅      |      ✅     |      ✅     |
-| week_09 | 04-17 ~ 04-23 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |      ✅     |
-| week_10 | 04-24 ~ 04-30 |    ✅    |     ✅     |    3️⃣     |      ✅      |      ✅     |      ✅     |
-| week_11 | 05-01 ~ 05-07 |   방학    |    방학    |    방학    |      방학     |     방학     |      ✅     |
-| week_12 | 05-08 ~ 05-14 |   방학    |    방학    |    방학    |      방학     |     방학     |      ✅     |
-| week_13 | 05-15 ~ 05-21 |    2️⃣    |     ✅     |    ✅     |      3️⃣      |   면접 준비   |      ✅     |
-| week_14 | 05-22 ~ 05-28 |    3️⃣    |     3️⃣     |    2️⃣     |      3️⃣      |   면접 준비   |      ✅     |
-| week_15 | 05-29 ~ 06-04 |    ✅    |     ✅     |    ❌     |      ✅      |   면접 준비   |      ✅     |
-| week_16 | 06-05 ~ 06-11 |    ✅    |     2️⃣     |    2️⃣     |      ✅      |   면접 준비   |      ✅     |
-| week_17 | 06-12 ~ 06-18 |   방학    |    방학    |    방학    |      방학     |     방학     |      ✅     |
-| week_18 | 06-19 ~ 06-25 |   방학    |    방학    |    방학    |      방학     |     방학     |      ✅     |
-| week_19 | 06-26 ~ 07-02 |        |          |         |            |      |           |
+| week_01 | 07-17 ~ 07-23 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |      ✅     |
 
 
 <br/>
