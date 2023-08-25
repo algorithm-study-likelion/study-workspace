@@ -17,12 +17,12 @@
     <td align="center"><a href="https://github.com/Gwonwoo-Nam"><b>박연주</b></a></td>
   </tr>
   <tr> 
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-   <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+   <td align="center"><img src="https://img.shields.io/badge/Javascript-007396.svg?&style=for-the-badge&logo=javascript&logoColor=white"></td>
+   <td align="center"><img src="https://img.shields.io/badge/Javascript-007396.svg?&style=for-the-badge&logo=javascript&logoColor=white"></td>
+   <td align="center"><img src="https://img.shields.io/badge/Javascript-007396.svg?&style=for-the-badge&logo=javascript&logoColor=white"></td>
+   <td align="center"><img src="https://img.shields.io/badge/Javascript-007396.svg?&style=for-the-badge&logo=javascript&logoColor=white"></td>
+   <td align="center"><img src="https://img.shields.io/badge/Javascript-007396.svg?&style=for-the-badge&logo=javascript&logoColor=white"></td>
+   <td align="center"><img src="https://img.shields.io/badge/Javascript-007396.svg?&style=for-the-badge&logo=javascript&logoColor=white"></td>
   </tr> 
 </table>
 
@@ -31,7 +31,10 @@
 
 |   주차    |      날짜       | 남종태 | 박연주 | 양서진 | 윤서준 | 오연주 | 이영주 |
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:-----------:|:-----------:|
-| week_01 | 07-17 ~ 07-23 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |      ✅     |
+| week_01 | 07-24 ~ 07-31 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |      x      |
+| week_02 | 08-01 ~ 08-07 |    ✅    |     x     |    ✅     |      ✅      |      ✅     |      ✅      |
+| week_03 | 08-08 ~ 08-15 |    ✅    |     ✅     |    ✅     |      x      |      ✅     |      ✅      |
+
 
 
 <br/>
